@@ -1,7 +1,7 @@
 # Startup expansion data analysis and machine learning 
 
 ## Overview
-- There are **150 stores** in different cities and states. uses machine learning techinque to train the model in the data and to predict the *revenue* based on the city, state, sales region,new expansion and markting spend when ever the company descided to open new store.
+- There are **150 stores** in different cities and states. uses machine learning techinque to train the model in the data and to predict the **revenue** whene the company decides to open new store based on the city, state, sales region,new expansion and markting spend.
 
 ## Data source:
 The data used in this project is provided by <a href="https://www.kaggle.com/datasets/mohamedkouchaoui/startupexpansion">Kaggle</a>. 
